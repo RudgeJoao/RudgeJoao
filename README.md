@@ -1,10 +1,9 @@
 <h2 align="left">Hi 👋! My name is João and I'm a developer, from SP - Brazil</h2>
 
 ###
-
-<img src="https://i.gifer.com/4Lma.gif"/>
-
-###
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=RudgeJoao&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RudgeJoao&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
 
 ### I code with
 <div align="left">
@@ -32,6 +31,4 @@
   </a>
 </div>
 
-###
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RudgeJoao&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
