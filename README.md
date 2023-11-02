@@ -2,10 +2,11 @@
 
 ###
 
-<img align="right" height="151" src="https://i.gifer.com/4Lma.gif"  />
+<img src="https://i.gifer.com/4Lma.gif"/>
 
 ###
 
+# I code with
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
